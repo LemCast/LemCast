@@ -68,15 +68,10 @@ My main focus right now is to further develop my abilities in Java programming a
   </a>
 
 <br> 
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
-
- <em><b>I love connecting with different people,</b> so if you want to say <b>hi, I'd be delighted to meet you!</b>😃</em>
  
 <br>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/artemio-rivera-23b353284" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="artemio-rivera-23b353284" height="40" width="45" /></a>
-&nbsp;<a href="mailto:artemioefrainriveradelatorre@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" alt="artemioefrainriveradelatorre@gmail.com" width="40" /></a>      
+<a href="https://www.linkedin.com/in/lemcast" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="lemcast" height="40" width="45" /></a>
+&nbsp;<a href="mailto:aaron.garza500@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" alt="aaron.garza500@gmail.com" width="40" /></a>      
 </p>
