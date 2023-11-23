@@ -6,7 +6,7 @@ aaron.garza500@gmail.com <br>
 www.linkedin.com/in/lemcast</p>
 <div align="center">
   
-<img src="https://clipart-library.com/img1/933621.gif" alt="Welcome!" width="500" height="300">
+<img src="https://raw.githubusercontent.com/infraform/contribute/master/welcome_infraform.gif" alt="Welcome!" width="500" height="300">
 
 </div>
 
